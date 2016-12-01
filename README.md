@@ -1,6 +1,8 @@
 # citibank-uk-scrape
 
+citibank.co.uk screen scraping 
 
+```
 >>> from citi import citi
 >>> citi = citi()
 >>> citi.login("username","password")
@@ -15,3 +17,4 @@ Saving Account XXXXXX7571 : CAD 0.00
 Saving Account XXXXXX7563 : GBP 20.05
 Cash Account XXXXXX2141 : GBP 513.40
 >>> 
+```
